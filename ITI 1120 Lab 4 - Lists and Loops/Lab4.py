@@ -82,7 +82,7 @@ def SD():
 
     #While loop to determine sum, then use to determine average
     while i != (len(val)):
-        sum = sum+val[i]\
+        sum = sum+val[i]
         i = i+1
     a = sum/len(val)
 
